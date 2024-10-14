@@ -56,7 +56,7 @@
 - 버전 및 이슈관리 : Github, Github Issues, Github Project
 - 협업 툴 : Discord, Notion
 - 서비스 배포 환경 : 셀프호스팅
-- 디자인 : [Figma](https://www.figma.com/file/fAisC2pEKzxTOzet9CfqML/README(oh-my-code)?node-id=39%3A1814)
+- 디자인 : [Figma](https://www.figma.com/design/9cYmpdiJjAkgYex2Fgwumm/%EC%97%AC%ED%96%89-%EA%B3%B5%EB%AA%A8%EC%A0%84?node-id=1796-1278&t=YM0aTJERXymjaMwy-1)
 <br>
 
 <br>
